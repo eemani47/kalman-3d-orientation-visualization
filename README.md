@@ -87,10 +87,5 @@ I created a **rotating cube** using a MATLAB Function block in Simulink. The cub
 
 
 ![WORKING MODEL](WORKING MODEL.jpeg)
-
-
-
-
-
 ---
 
