@@ -86,6 +86,7 @@ I created a **rotating cube** using a MATLAB Function block in Simulink. The cub
    - Applied anti-aliasing and smoothed the camera view inside the function.
 
 
-![WORKING MODEL](WORKING MODEL.jpeg)
+![WORKING MODEL](WORKING_MODEL.jpeg)
+
 ---
 
