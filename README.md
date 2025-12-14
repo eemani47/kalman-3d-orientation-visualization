@@ -85,7 +85,8 @@ I created a **rotating cube** using a MATLAB Function block in Simulink. The cub
    - Increased the solver sample rate (`0.0001`) to smooth out the animation.
    - Applied anti-aliasing and smoothed the camera view inside the function.
 
----
+
+![simulink model](WORKING MODEL.jpeg)
 
 
 
